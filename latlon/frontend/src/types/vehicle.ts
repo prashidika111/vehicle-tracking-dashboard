@@ -1,0 +1,1 @@
+export interface VehiclePosition {vehicleCode: string; lat: number; lon: number; timestamp: string;}
